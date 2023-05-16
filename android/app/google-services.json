@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "907305346848",
+    "project_id": "ecommercephp-6f838",
+    "storage_bucket": "ecommercephp-6f838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907305346848:android:329a882d3b0b2d51f59945",
+        "android_client_info": {
+          "package_name": "com.waelabohamza.ecommercecourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907305346848-1p41joa2f4i18dshne0dg2e2ud8ssqsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDupOPGdIZjSookmjO6i5Q7ayTrAg7Zoms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907305346848-1p41joa2f4i18dshne0dg2e2ud8ssqsh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "907305346848-tkooptetjmt1te94e1b64o8tdtvbj1vg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.waelabohamza.ecommercecourse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
